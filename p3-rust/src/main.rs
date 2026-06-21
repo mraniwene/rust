@@ -3,11 +3,11 @@ fn main()
     println!("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
     println!("Hello, world!");
     println!("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-
+/*
     i32 a = 1;
     i32 b = 2;
     i32 c = a + b;
 
     println!("Int c is:" + c);
-
+*/
 }
